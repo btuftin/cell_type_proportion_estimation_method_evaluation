@@ -1,0 +1,1 @@
+This repository contains analysis code for the project currently aimed for publication with the title "Evaluating methods for cell type proportion estimation from bulk data and the utility of increasingly large single cell RNA-seq references in blood". This readme will be updated with link to the paper when available.
